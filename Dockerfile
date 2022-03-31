@@ -94,6 +94,3 @@ FROM bitnami/opencart:3.0.3-8-debian-10-r173
 
 # Tags: 3.0.3-8-debian-10-r172
 FROM bitnami/opencart:3.0.3-8-debian-10-r172
-
-# Tags: 3.0.3-8-debian-10-r171
-FROM bitnami/opencart:3.0.3-8-debian-10-r171
