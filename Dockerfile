@@ -1,12 +1,15 @@
-# Tags: latest, 3.0.3-8-debian-10-r234, 3.0.3-8, 3-debian-10, 3
+# Tags: latest, 3.0.3-8-debian-10-r235, 3.0.3-8, 3-debian-10, 3
 FROM bitnami/opencart:latest
-FROM bitnami/opencart:3.0.3-8-debian-10-r234
+FROM bitnami/opencart:3.0.3-8-debian-10-r235
 FROM bitnami/opencart:3.0.3-8
 FROM bitnami/opencart:3-debian-10
 FROM bitnami/opencart:3
 
 # Tags: _
 FROM bitnami/opencart:_
+
+# Tags: 3.0.3-8-debian-10-r234
+FROM bitnami/opencart:3.0.3-8-debian-10-r234
 
 # Tags: 3.0.3-8-debian-10-r233
 FROM bitnami/opencart:3.0.3-8-debian-10-r233
@@ -91,6 +94,3 @@ FROM bitnami/opencart:3.0.3-8-debian-10-r206
 
 # Tags: 3.0.3-8-debian-10-r205
 FROM bitnami/opencart:3.0.3-8-debian-10-r205
-
-# Tags: 3.0.3-8-debian-10-r204
-FROM bitnami/opencart:3.0.3-8-debian-10-r204
